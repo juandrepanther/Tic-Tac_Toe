@@ -1,0 +1,15 @@
+#wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    height: 600px;
+    width: 600px;
+    border: 1px solid black;
+}
+.square {
+    width: 198px;
+    height: 198px;
+    border: 1px solid black;
+    cursor: pointer;
+    font-size: 130px;
+    text-align: center;
+}
